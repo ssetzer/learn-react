@@ -13,6 +13,13 @@ Projects and tutorials for learning React.js
 * [Scrimba React Tutorial](https://scrimba.com/learn/learnreact)
 * [Full Stack Open](https://fullstackopen.com/)
 
+## Project Ideas
+### Simple Projects
+* Background color changer
+* Button that counts how many times you click it
+### Big Projects
+* Trivia Game
+
 
 
 
