@@ -8,3 +8,11 @@ Projects and tutorials for learning React.js
 
 ## Tutorials
 * [React Tutorial From Scratch: A Step-by-Step Guide 2021](https://ibaslogic.com/react-tutorial-for-beginners/)
+
+## Additional React Learning Resources
+* [Scrimba React Tutorial](https://scrimba.com/learn/learnreact)
+* [Full Stack Open](https://fullstackopen.com/)
+
+
+
+
